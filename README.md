@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Modo de inicialização frontend
 
-`cd web/src/frontend/`
+`cd web`
 `npm i`
 `npm start`
 
