@@ -1,0 +1,18 @@
+
+.Login div{
+    background-color: rgba(103, 108, 126, 0.644);
+    margin-right: 79%;
+}
+.Login .on{
+    color: rgb(23, 78, 23);
+}
+.Login .off{
+    color: rgb(117, 38, 42);
+}
+.formall{
+    background-color: rgb(248, 235, 250);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.formall h3{
+    margin-top: 58px;
+}

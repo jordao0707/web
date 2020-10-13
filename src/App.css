@@ -1,0 +1,10 @@
+.button{
+    display: flex;
+    justify-content:center ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifs;
+    background-color: rgb(236, 177, 177);   
+}
+.l1, .l2{
+    color: rgb(86, 13, 88);
+    margin-right: 10px;
+}

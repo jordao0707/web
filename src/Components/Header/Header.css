@@ -1,0 +1,12 @@
+
+.header {
+  display: flex;
+  justify-content: center;
+  background-color: rgba(49, 42, 82, 0.747);
+}
+
+.header h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+
+}

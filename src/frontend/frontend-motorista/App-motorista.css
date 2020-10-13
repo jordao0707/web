@@ -1,0 +1,17 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    
+}
+body{
+    background-color: rgb(248, 235, 250);;
+}
+  
+  .app {
+    display: flex;
+    justify-content: center;
+  }

@@ -1,0 +1,22 @@
+{
+  "passageiro": [
+    {
+      "id": 1,
+      "nome": "Filipe",
+      "origem": "sdasd",
+      "destino": "asd",
+      "aceito": 1
+    }
+  ],
+  "motorista": [
+    {
+      "id": 1,
+      "nome": "Jordão",
+      "placa": "asdas",
+      "local": "asd",
+      "notificacao": [
+        1
+      ]
+    }
+  ]
+}
